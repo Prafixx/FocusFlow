@@ -12,3 +12,6 @@ dist/
 
 # File dell'editor
 .vscode/
+
+# File zip da distribuire (si caricano su GitHub Releases, non nel codice)
+*.zip
