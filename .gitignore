@@ -1,0 +1,14 @@
+# Ambiente virtuale: si ricrea sempre con "pip install", non va su Git
+.venv/
+
+# File temporanei di Python
+__pycache__/
+*.pyc
+
+# Cartelle create da PyInstaller (le useremo alla fine)
+build/
+dist/
+*.spec
+
+# File dell'editor
+.vscode/
